@@ -104,4 +104,5 @@ h2 {
 }
 .source-code {
   text-align: center;
+  display: block;
 }
